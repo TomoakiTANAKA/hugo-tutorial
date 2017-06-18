@@ -1,0 +1,9 @@
+title = "HUGO チュートリアル"
+baseurl = "https://tomoakitanaka.github.io/hugo-tutorial/"
+languageCode = "ja-jp"
+theme = "hugo_theme_robust"
+canonifyurls = true
+
+[params]
+  description = "HUGOのチュートリアルサイト"
+  author = "TanakanoAnchan"
